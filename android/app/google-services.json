@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602045503456",
+    "project_id": "task-be42d",
+    "storage_bucket": "task-be42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602045503456:android:3f53ec12e9d8128816bd85",
+        "android_client_info": {
+          "package_name": "com.example.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADmmhATm6QZRz-9Fag78mvn5Vr_zxpxeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
